@@ -1,7 +1,7 @@
 # DNSiblings
 Python script to enumerate siblings DNS.
 
-**USAGE** python dnsiblings.py
+**USAGE:** python dnsiblings.py
 
 ## Requirement:
 
