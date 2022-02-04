@@ -1,8 +1,8 @@
 # DNSiblings
 Python script to enumerate siblings DNS.
 
-python dnsiblings.py
+**USAGE** python dnsiblings.py
 
-Requirement:
+## Requirement:
 
-- requests (pip install requests)
+- requests *(pip install requests)*
